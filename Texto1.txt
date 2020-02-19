@@ -1,2 +1,4 @@
 Texto1 Inicio
-modificado
+funcionalidade A
+
+print("Ola Mundo")
